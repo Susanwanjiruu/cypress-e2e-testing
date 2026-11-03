@@ -1,6 +1,6 @@
 # Cypress UI Automation — Automation Exercise
 
-A Cypress end-to-end testing exercise for the public [Automation Exercise](https://automationexercise.com/) website.
+Cypress end-to-end tests covering user workflows on the Automation Exercise website.
 
 The test file covers homepage visibility, account registration and deletion, invalid login feedback, product search and details, cart actions, contact form submission, product quantity, and newsletter subscription.
 
